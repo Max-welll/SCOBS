@@ -1,3 +1,3 @@
 # SCOBS
-Securing COTS Binaries with Automatic Program Partitioning for Intel SGX
+Securing COTS Binaries with Automatic Program Partitioning for Intel SGX\n
 Soon to be open source...
